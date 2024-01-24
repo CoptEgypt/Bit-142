@@ -1,0 +1,21 @@
+/*Filobatire Henein
+2/23/2022
+Major Coding Assignment 4
+Purpose: Given a list of numbers by the user, I will code the algorithm for the following in order to find the element the user 
+is searching for
+ Binary Search
+ Linear Search
+ Bubble Sort
+ A searching algorithm of your choice
+ A sorting algorithm of your choice 
+If the element is present, print the index it is at.
+If the element is not present, print “the element is not in this list.”
+*/
+//import java.util.*;
+
+public class Major_CS_Assignment4_SearchingAndSortingAlgorithm{
+    public static void main(String[] args) {
+        System.out.println("Hey! Welcome to Filo's Dice Game.");
+}
+}
+    

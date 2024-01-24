@@ -1,0 +1,11 @@
+/Users/geovannyhenein/Desktop/Bit 142/Lecture_1_excercise_2/Lecture_1_excercise_2/bin/Debug/netcoreapp2.1/Lecture_1_excercise_2.deps.json
+/Users/geovannyhenein/Desktop/Bit 142/Lecture_1_excercise_2/Lecture_1_excercise_2/bin/Debug/netcoreapp2.1/Lecture_1_excercise_2.runtimeconfig.json
+/Users/geovannyhenein/Desktop/Bit 142/Lecture_1_excercise_2/Lecture_1_excercise_2/bin/Debug/netcoreapp2.1/Lecture_1_excercise_2.runtimeconfig.dev.json
+/Users/geovannyhenein/Desktop/Bit 142/Lecture_1_excercise_2/Lecture_1_excercise_2/bin/Debug/netcoreapp2.1/Lecture_1_excercise_2.dll
+/Users/geovannyhenein/Desktop/Bit 142/Lecture_1_excercise_2/Lecture_1_excercise_2/bin/Debug/netcoreapp2.1/Lecture_1_excercise_2.pdb
+/Users/geovannyhenein/Desktop/Bit 142/Lecture_1_excercise_2/Lecture_1_excercise_2/obj/Debug/netcoreapp2.1/Lecture_1_excercise_2.csprojAssemblyReference.cache
+/Users/geovannyhenein/Desktop/Bit 142/Lecture_1_excercise_2/Lecture_1_excercise_2/obj/Debug/netcoreapp2.1/Lecture_1_excercise_2.csproj.CoreCompileInputs.cache
+/Users/geovannyhenein/Desktop/Bit 142/Lecture_1_excercise_2/Lecture_1_excercise_2/obj/Debug/netcoreapp2.1/Lecture_1_excercise_2.AssemblyInfoInputs.cache
+/Users/geovannyhenein/Desktop/Bit 142/Lecture_1_excercise_2/Lecture_1_excercise_2/obj/Debug/netcoreapp2.1/Lecture_1_excercise_2.AssemblyInfo.cs
+/Users/geovannyhenein/Desktop/Bit 142/Lecture_1_excercise_2/Lecture_1_excercise_2/obj/Debug/netcoreapp2.1/Lecture_1_excercise_2.dll
+/Users/geovannyhenein/Desktop/Bit 142/Lecture_1_excercise_2/Lecture_1_excercise_2/obj/Debug/netcoreapp2.1/Lecture_1_excercise_2.pdb

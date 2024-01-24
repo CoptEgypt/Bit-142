@@ -1,0 +1,6 @@
+/Users/geovannyhenein/Desktop/Bit 142/PCE_01-3/bin/Debug/PCE_01.exe
+/Users/geovannyhenein/Desktop/Bit 142/PCE_01-3/bin/Debug/PCE_01.pdb
+/Users/geovannyhenein/Desktop/Bit 142/PCE_01-3/obj/Debug/PCE_01.csproj.CoreCompileInputs.cache
+/Users/geovannyhenein/Desktop/Bit 142/PCE_01-3/obj/Debug/PCE_01.exe
+/Users/geovannyhenein/Desktop/Bit 142/PCE_01-3/obj/Debug/PCE_01.pdb
+/Users/geovannyhenein/Desktop/Bit 142/PCE_01-3/obj/Debug/PCE_01.csprojAssemblyReference.cache

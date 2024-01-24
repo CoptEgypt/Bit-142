@@ -1,0 +1,57 @@
+/*Filobatire Henein
+2/23/2022
+Major Coding Assignment 4
+Purpose: Given a list of numbers by the user, I will code the algorithm for the following in order to find the element the user 
+is searching for
+ Binary Search
+ Linear Search
+ Bubble Sort
+ A searching algorithm of your choice
+ A sorting algorithm of your choice 
+If the element is present, print the index it is at.
+If the element is not present, print “the element is not in this list.”
+*/
+//import java.util.*;
+
+public class Major_CS_Assignment4_SearchingAndSortingAlgorithm{
+    public static void main(String[] args) {
+        StartGame();
+        //EndGame(PlayGame());
+}
+public static void StartGame() {
+    System.out.println("Hey! Welcome to Filo's Dice Game.");
+    System.out.println("Let's start!");
+}
+    /*public static int PlayGame() {
+        Random die1 = new Random();
+        Random die2 = new Random();
+        Scanner keyboard = new Scanner(System.in);
+        String answer = "YES";
+        int counter = 0;
+        while (answer.equals("YES")) {
+            int Dice1 = die1.nextInt(6) + 1;
+            int Dice2 = die2.nextInt(6) + 1;
+            int add = Dice1 + Dice2;
+            counter++;
+            System.out.println("Dice 1: " + Dice1);
+            System.out.println("Dice 2: " + Dice2);
+            System.out.println("I got " + Dice1 + " and " + Dice2);
+
+            if (add % 2 == 0) {
+                System.out.println("Evens are better than odds!");
+            } else {
+                System.out.println("Odds are still cool!");
+            }
+            System.out.println("Do you want to play again?");
+            answer = keyboard.nextLine();
+            
+        }
+        keyboard.close();
+       return counter;
+    }
+    public static void EndGame(int counter) {
+        System.out.println("The number of times the dice was thrown was: " + counter
+                + "\nNice game! \nThanks for playing, Come play again soon!");
+    */ }
+    
+}
